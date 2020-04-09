@@ -108,7 +108,11 @@ Modify the block below if there are any special requirements.
 {% endcomment %}
 <p id="requirements">
   <strong>Requirements:</strong> Participants must have a laptop with a
-  Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed (listed <a href="#setup">below</a>).
+  Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that 
+  they have administrative privileges on. They should have a few specific
+  software packages installed (listed <a href="#setup">below</a>). If this
+  is not possible they may use <https://rstudio.cloud/> from any modern 
+  web-browser (see setup below).
 </p>
 
 {% comment %}
@@ -226,9 +230,9 @@ please preview your site before committing, and make sure to run
   {% elsif site.carpentry == "lc" %}
   Library Carpentry
   {% endif %}
-  workshop, you will need an up-to-date web browser and either
-  [this free rstudio.cloud project](https://rstudio.cloud/project/1133167) or
-  the software described below.
+  workshop, you will need to either copy this rstudio.cloud project
+  <https://rstudio.cloud/project/1133167> from a modern web-browser or
+  install the software described below.
 </p>
 <p>
   We maintain a list of common issues that occur during installation as a reference for instructors
