@@ -9,6 +9,7 @@
 
 ## TODO
 
+* [x] Link website from repo
 * [ ] Customize website
 * [ ] Share website URL with workshop organizers
 * [ ] Share website URL with workshop the [Carpentries][email]. 
@@ -115,22 +116,6 @@ you can do so as described below.
 
     to check for a few common errors in your workshop's home page.
     (You must have Python 3 installed to do this.)
-
-## (Optional) Linking to Your Page
-
-At the top of your repository on GitHub you'll see
-
-~~~
-No description, website, or topics provided. — Edit
-~~~
-
-Click 'Edit' and add:
-
-1.  A very brief description of your workshop in the "Description" box (e.g., "Miskatonic University workshop, Dec. 2016")
-
-2.  The URL for your workshop in the "Website" box (e.g., `https://gvwilson.github.io/2016-12-01-miskatonic`)
-
-This will help people find your website if they come to your repository's home page.
 
 ## Creating Extra Pages
 
