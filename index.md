@@ -231,9 +231,9 @@ please preview your site before committing, and make sure to run
   {% elsif site.carpentry == "lc" %}
   Library Carpentry
   {% endif %}
-  workshop, you will need to either copy this rstudio.cloud project
-  <https://rstudio.cloud/project/1133167> from a modern web-browser or
-  install the software described below.
+  workshop, you will need to either (a) copy this
+  <a href="https://rstudio.cloud/project/1133167">this rstudio.cloud project</a>
+  from a modern web-browser, or (b) install the software described below.
 </p>
 <p>
   We maintain a list of common issues that occur during installation as a reference for instructors
