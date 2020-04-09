@@ -231,7 +231,7 @@ please preview your site before committing, and make sure to run
   {% elsif site.carpentry == "lc" %}
   Library Carpentry
   {% endif %}
-  workshop, you will need to either (a) copy this
+  workshop, you will need to either (a) copy
   <a href="https://rstudio.cloud/project/1133167">this rstudio.cloud project</a>
   from a modern web-browser, or (b) install the software described below.
 </p>
