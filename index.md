@@ -203,7 +203,7 @@ SURVEYS - DO NOT EDIT SURVEY LINKS
 
 <h2 id="schedule">Schedule</h2>
 
-<http://swcarpentry.github.io/r-novice-inflammation/>
+<a href="http://swcarpentry.github.io/r-novice-inflammation/">Programming with R</a>.
 
 <hr/>
 
