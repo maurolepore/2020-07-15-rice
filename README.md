@@ -140,52 +140,10 @@ but there is no way to avoid this
 without requiring people to edit both files in the usual case
 where no extra pages are created.
 
-## Installing Software
 
-If you want to set up Jekyll
-so that you can preview changes on your own machine before pushing them to GitHub,
-you must install the software described below.
-(Note: Julian Thilo has written instructions for
-[installing Jekyll on Windows][jekyll-windows].)
 
-1.  **Ruby**.
-    This is included with Linux and macOS;
-    the simplest option on Windows is to use [RubyInstaller][ruby-installer].
-    You can test your installation by running `ruby --version`.
-    For more information,
-    see [the Ruby installation guidelines][ruby-install-guide].
 
-2.  **[RubyGems][rubygems]**
-    (the package manager for Ruby).
-    You can test your installation by running `gem --version`.
 
-3.  **[Jekyll][jekyll]**.
-    You can install this by running `gem install jekyll`.
-
-## Setting Up a Separate Repository for Learners
-
-If you are teaching Git,
-you should create a separate repository for learners to use in that lesson.
-You should not have them use the workshop website repository because:
-
-*   your workshop website repository contains many files
-    that most learners don't need to see during the lesson,
-    and
-
-*   you probably don't want to accidentally merge
-    a damaging pull request from a novice Git user
-    into your workshop's website while you are using it to teach.
-
-You can call this repository whatever you like,
-and add whatever content you need to it.
-
-## Getting and Giving Help
-
-We are committed to offering a pleasant setup experience for our learners and organizers.
-If you find bugs in our instructions,
-or would like to suggest improvements,
-please [file an issue][issues]
-or [mail us][email].
 
 [email]: mailto:team@carpentries.org
 [customization]: https://carpentries.github.io/workshop-template/customization/index.html
