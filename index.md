@@ -11,7 +11,7 @@ enddate: 2020-05-13        # machine-readable end date for the workshop in YYYY-
 instructor: ["Mauro Lepore", "Jackson Hoffart"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["TBC"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["lspiro@rice.edu", "heider@rice.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
-collaborative_notes: https://docs.google.com/document/d/1hk36yBQE5_CUXRTqO0TEU91L4jKF7b9oGSTrIe0Pdhc/edit?usp=sharing            # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
+collaborative_notes: https://docs.google.com/document/d/1rtJyejgdsQK_jWKSUyMDLOLTmz5LaHgeEgAkRAeiI1Q/edit?usp=sharing            # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
@@ -181,7 +181,7 @@ e.g., '2015-06-10-esu'.
 <h2 id="collaborative_notes">Collaborative Notes</h2>
 
 <p>
-We will use this <a href="{{page.collaborative_notes}}">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.
+We will use Zoom's Chat for chatting and this <a href="{{page.collaborative_notes}}">collaborative document</a> for notes we may want to keep such as bits of code.
 </p>
 <hr/>
 {% endif %}
