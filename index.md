@@ -233,15 +233,8 @@ please preview your site before committing, and make sure to run
   {% endif %}
   workshop, you will need to either (a) copy
   <a href="https://rstudio.cloud/project/1133167">this rstudio.cloud project</a>
-  from a modern web-browser, or (b) install the software described below.
+  from a modern web-browser, or (b) install the software described below:
 </p>
-<p>
-  We maintain a list of common issues that occur during installation as a reference for instructors
-  that may be useful on the
-  <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
-</p>
-
-
 
 {% if site.carpentry == "swc" %}
 {% include swc/setup.html %}
@@ -250,3 +243,9 @@ please preview your site before committing, and make sure to run
 {% elsif site.carpentry == "lc" %}
 {% include lc/setup.html %}
 {% endif %}
+
+<p>
+  We maintain a list of common issues that occur during installation as a reference for instructors
+  that may be useful on the
+  <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
+</p>
