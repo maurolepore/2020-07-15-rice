@@ -110,10 +110,11 @@ Modify the block below if there are any special requirements.
   <strong>Requirements:</strong> Participants must have a laptop with a
   Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that 
   they have administrative privileges on. They should have a few specific
-  software packages installed (see <a href="#setup">Setup</a> below). If this
-  is not possible they may use <https://rstudio.cloud/> from any modern 
-  web-browser (see <a href="#setup">Setup</a> below).
-</p>
+  software packages installed (see <a href="#setup">Setup</a>). If this
+  is not possible they may use 
+  <a href="https://rstudio.cloud/">rstudio.cloud</a> from any modern 
+  web-browser (see <a href="#setup">Setup</a>).
+  </p>
 
 {% comment %}
 ACCESSIBILITY
