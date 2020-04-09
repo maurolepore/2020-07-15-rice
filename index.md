@@ -186,7 +186,7 @@ e.g., '2015-06-10-esu'.
 <h2 id="collaborative_notes">Collaborative Notes</h2>
 
 <p>
-We will use Zoom's Chat for chatting and this <a href="{{page.collaborative_notes}}">collaborative document</a> for notes we may want to keep such as bits of code.
+We will use Zoom's Chat for chatting, and this <a href="{{page.collaborative_notes}}">collaborative document</a> for long or persistent notes (e.g. bits of code).
 </p>
 <hr/>
 {% endif %}
