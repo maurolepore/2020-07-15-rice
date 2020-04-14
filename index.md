@@ -204,7 +204,7 @@ SURVEYS - DO NOT EDIT SURVEY LINKS
 
 <h2 id="schedule">Schedule</h2>
 
-<a href="http://swcarpentry.github.io/r-novice-inflammation/">Programming with R</a>.
+We aim to meet the core learning objectives of the Software Carpentry lesson <a href="http://swcarpentry.github.io/r-novice-inflammation/">Programming with R</a>. The content will be adapted for online delivery and to focus on most current tools and best practices.
 
 <hr/>
 
