@@ -204,7 +204,7 @@ SURVEYS - DO NOT EDIT SURVEY LINKS
 
 <h2 id="schedule">Schedule</h2>
 
-We aim to meet the core learning objectives of the Software Carpentry lesson <a href="http://swcarpentry.github.io/r-novice-inflammation/">Programming with R</a>. The content will be adapted for online delivery and to focus on most current tools and best practices.
+To ensure the workshop is suitable for two half-days and is up-to-date, we will use the curriculum from <a href="https://carpentries-incubator.github.io/open-science-with-r/">Open Science with R (parts 1-6)</a>. The content will be adapted for online delivery and to focus on most current tools and best practices.
 
 <hr/>
 
