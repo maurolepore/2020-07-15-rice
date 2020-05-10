@@ -107,7 +107,7 @@ SPECIAL REQUIREMENTS
 Modify the block below if there are any special requirements.
 {% endcomment %}
 <p id="requirements">
-  <strong>Requirements:</strong> See <a href="#setup">Setup</a>).
+  <strong>Requirements:</strong> See <a href="#setup">Setup</a>.
   </p>
 
 {% comment %}
