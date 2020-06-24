@@ -1,8 +1,8 @@
 ## Buildme
 
-* [Website](https://maurolepore.github.io/2020-05-12-rice/)
-* [How to customize your website](https://github.com/carpentries/workshop-template#customizing-your-website)
-* [Customize your website](https://github.com/maurolepore/2020-05-12-rice/edit/gh-pages/index.md)
+* Website: <https://maurolepore.github.io/2020-07-15-rice/>
+* Customize this website: <https://github.com/maurolepore/2020-07-15-rice/edit/gh-pages/index.md>
+* [How to customize this kind of website](https://github.com/carpentries/workshop-template#customizing-your-website)
 * [Original carpentries/workshop-template](https://github.com/carpentries/workshop-template)
 
 [email]: mailto:team@carpentries.org
