@@ -5,16 +5,6 @@
 * [Customize your website](https://github.com/maurolepore/2020-05-12-rice/edit/gh-pages/index.md)
 * [Original carpentries/workshop-template](https://github.com/carpentries/workshop-template)
 
-## TODO
-
-* [x] Link website from repo
-* [x] Customize website
-* [ ] Co-teacher reviewed website
-* [ ] Organizers reviewed website
-* [ ] Website URL shared with the [Carpentries][email]. 
-* [ ] If this is a self-organised workshop, [fill in the self-organized workshop form][self-organized-workshop-form].
-
-
 [email]: mailto:team@carpentries.org
 [customization]: https://carpentries.github.io/workshop-template/customization/index.html
 [dc-site]: http://datacarpentry.org
