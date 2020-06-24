@@ -4,14 +4,14 @@ venue: "Rice University (online)"        # brief name of host site without addre
 address: "Virtual room. We'll email you the information to join."      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
-humandate: "May 12-13, 2020"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "9:00 am - 12:00 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: 2020-05-12      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2020-05-13        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Mauro Lepore", "Jackson Hoffart"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+humandate: "July 15-16, 2020"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humantime: "10:00 am - 1:00 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
+startdate: 2020-07-15      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2020-07-16        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+instructor: ["Mauro Lepore", "Ajith Kumar"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Lisa Spiro", "John C Mulligan", "Clinton R Heider", "Miaomiao Rimmer"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["lspiro@rice.edu", "heider@rice.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
-collaborative_notes: https://docs.google.com/document/d/1rtJyejgdsQK_jWKSUyMDLOLTmz5LaHgeEgAkRAeiI1Q/edit?usp=sharing            # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
+collaborative_notes: https://bit.ly/2020-07-15-rice            # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
