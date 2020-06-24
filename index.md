@@ -198,7 +198,7 @@ SURVEYS - DO NOT EDIT SURVEY LINKS
 
 <h2 id="schedule">Schedule</h2>
 
-To ensure the workshop is suitable for two half-days and is up-to-date, we will use the curriculum from <a href="https://carpentries-incubator.github.io/open-science-with-r/">Open Science with R (parts 1-6)</a>. The content will be adapted for online delivery and to focus on most current tools and best practices.
+To ensure the workshop is suitable for two half-days and is up-to-date, we will use the curriculum from <a href="https://carpentries-incubator.github.io/open-science-with-r/">Open Science with R (parts 1-5)</a>. The content will be adapted for online delivery and to focus on most current tools and best practices.
 
 <hr/>
 
