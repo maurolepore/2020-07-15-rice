@@ -217,17 +217,7 @@ please preview your site before committing, and make sure to run
 <h2 id="setup">Setup</h2>
 
 <p>
-  To participate in a
-  {% if site.carpentry == "swc" %}
-  Software Carpentry
-  {% elsif site.carpentry == "dc" %}
-  Data Carpentry
-  {% elsif site.carpentry == "lc" %}
-  Library Carpentry
-  {% endif %}
-  workshop, you will need to copy
-  <a href="https://rstudio.cloud/project/1133167">this rstudio.cloud project</a>
-  from a modern web-browser. For your personal use after the workshop, you may want to install the software described below:
+  To participate in this workshop, you will need to copy <a href="https://rstudio.cloud/project/1133167">this rstudio.cloud project</a>  from a modern web-browser. After the workshop you may want to install the software described below:
 </p>
 
 {% if site.carpentry == "swc" %}
